@@ -24,6 +24,7 @@ After Scaling up by 1.5X
 
 ## 📂 Project Structure
 
+```
 image-scaler/
 ├── backend/
 │ ├── main.py
@@ -39,6 +40,7 @@ image-scaler/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+```
 
 
 ## ⚡ Instructions to Setup
