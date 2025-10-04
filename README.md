@@ -2,6 +2,13 @@
 
 A fast, browser-based image scaler that allows users to **upload any image**, scale it up or down while preserving quality, and download the processed image. Built with **FastAPI** for the backend and **React + Vite + TailwindCSS** for the frontend.
 
+Inital 
+<img width="3439" height="1264" alt="image" src="https://github.com/user-attachments/assets/350d8104-fee7-4bbe-9a5d-2d6da1849dfc" />
+
+After Scaling up by 1.5X
+
+<img width="3434" height="1264" alt="image" src="https://github.com/user-attachments/assets/e9eb552a-ab0d-49db-a92b-cbebe063a838" />
+
 ---
 
 ## 🛠️ Features
@@ -34,13 +41,13 @@ image-scaler/
 └── index.css
 
 
-## ⚡ Getting Started
+## ⚡ Instructions to Setup
 
 ### 1️⃣ Backend
 
 ```bash
 cd backend
-python -m venv venv        # create virtual environment
+python -m venv venv
 # Activate it:
 # Windows
 venv\Scripts\activate
